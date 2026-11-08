@@ -1,137 +1,190 @@
+
+<!--
+  GitHub Profile README
+  Repository: EDaniel-B/EDaniel-B
+  Theme: Graphite & Violet
+-->
+
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:171923,50:29243A,100:6D4AFF&height=210&section=header&text=El%C3%ADas%20Daniel%20Bone&fontSize=38&fontColor=F4F1FF&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Development&descAlignY=58&descSize=16"
-    alt="Elías Daniel Bone — Software Developer"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171421,50:302448,100:8B5CF6&height=220&section=header&text=El%C3%ADas%20Daniel%20Bone&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Desarrollador%20de%20Software&descAlignY=58&descSize=16" width="100%" alt="Elías Daniel Bone - Software Developer"/>
 
   <p>
-    <a href="https://github.com/EDaniel-B">
-      <img src="https://img.shields.io/badge/GitHub-EDaniel--B-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-    </a>
-    <a href="https://github.com/EDaniel-B?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-Explore-29243A?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Explore repositories" />
-    </a>
+    <strong>Building solutions through code, logic and continuous learning.</strong>
+    <br/>
+    <strong>Construyendo soluciones mediante código, lógica y aprendizaje continuo.</strong>
   </p>
 
-  <p>
-    <strong>Building software with purpose · Construyendo software con propósito</strong>
-  </p>
+  <a href="mailto:elias.dbone.g@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-A78BFA?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/EDaniel-B">
+    <img src="https://img.shields.io/badge/GitHub-EDaniel--B-272333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=EDaniel-B&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
-  </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me | Sobre mí
+## 👨‍💻 About me | Sobre mí
 
-**EN** — I'm a Software Development technologist interested in building useful, maintainable web applications and backend solutions. I work with frontend and backend technologies, relational databases, APIs, and software architecture.
+**EN**
 
-**ES** — Soy tecnólogo en Desarrollo de Software, interesado en construir aplicaciones web y soluciones backend útiles y mantenibles. Trabajo con tecnologías frontend y backend, bases de datos relacionales, APIs y arquitectura de software.
+I'm a software developer focused on building web applications, backend solutions and database-driven systems. I enjoy transforming requirements into functional, maintainable and scalable software.
 
-- 🔭 **Focus / Enfoque:** Full Stack Development, backend engineering and database integration.
-- 🧩 **Interested in / Intereses:** Clean code, MVC, MVVM, REST APIs and software architecture.
-- 🌱 **Currently improving / Actualmente fortaleciendo:** C#, .NET, JavaScript, SQL Server, application architecture and reporting solutions.
-- 📍 **Location / Ubicación:** Guayaquil, Ecuador.
+My experience includes institutional software development, business-oriented applications, database management, API integration and interface development. I believe in continuous improvement, clean code and learning through real-world projects.
 
-## 🛠️ Tech Stack | Tecnologías
+**ES**
 
-### Languages & Frontend
+Soy desarrollador de software enfocado en la construcción de aplicaciones web, soluciones backend y sistemas orientados a bases de datos. Me interesa transformar requerimientos en soluciones funcionales, mantenibles y escalables.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,js,html,css,react,vite&theme=dark" alt="C sharp, JavaScript, HTML, CSS, React and Vite" />
-</p>
+Cuento con experiencia laboral en desarrollo de software, especialmente en sistemas institucionales, aplicaciones orientadas a procesos empresariales, gestión de bases de datos, integración de API y desarrollo de interfaces. Me motiva mejorar continuamente, escribir código limpio y aprender mediante proyectos reales.
 
-### Backend & Databases
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,postgres,mysql,redis&theme=dark" alt=".NET, Node.js, Express, PostgreSQL, MySQL and Redis" />
-</p>
+## 🛠️ Technologies & Tools | Tecnologías y herramientas
 
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-Database-8B5CF6?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-Backend-8B5CF6?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/QuestPDF-Reporting-8B5CF6?style=flat-square" alt="QuestPDF" />
-  <img src="https://img.shields.io/badge/RDLC-Reports-8B5CF6?style=flat-square" alt="RDLC" />
-</p>
+My technology stack is organized by the tools I use and the experience I have developed with them.
 
-### Tools & Practices
+Mi stack tecnológico está organizado según las herramientas que utilizo y la experiencia que he desarrollado con ellas.
+
+### Backend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio, VS Code and Postman" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET MVC"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
 </p>
+
+### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/MVC-Architecture-29243A?style=flat-square&logoColor=white" alt="MVC" />
-  <img src="https://img.shields.io/badge/MVVM-Architecture-29243A?style=flat-square" alt="MVVM" />
-  <img src="https://img.shields.io/badge/REST%20API-Integration-29243A?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Responsive%20UI-Frontend-29243A?style=flat-square" alt="Responsive UI" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
-## 🚀 Featured Projects | Proyectos destacados
+### Databases & ORM
 
-**EN** — A selection of projects that reflect my learning process and software development interests.
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+</p>
 
-**ES** — Una selección de proyectos que refleja mi proceso de aprendizaje e intereses en el desarrollo de software.
+### Architecture & Development
 
-> Project links will be added here as the repositories are selected and prepared for public presentation.
-> Aquí añadiré los enlaces cuando seleccionemos y preparemos los repositorios para su presentación pública.
+<p>
+  <img src="https://img.shields.io/badge/MVC-6C5CE7?style=flat-square" alt="MVC"/>
+  <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=flat-square" alt="MVVM"/>
+  <img src="https://img.shields.io/badge/REST_APIs-8B5CF6?style=flat-square" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-8B5CF6?style=flat-square" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+</p>
+
+### Reporting & Productivity
+
+<p>
+  <img src="https://img.shields.io/badge/QuestPDF-6B46C1?style=flat-square" alt="QuestPDF"/>
+  <img src="https://img.shields.io/badge/RDLC-512BD4?style=flat-square" alt="RDLC"/>
+  <img src="https://img.shields.io/badge/ExcelJS-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="ExcelJS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+## 💠 Technology proficiency | Nivel de experiencia
+
+The following diagram represents my self-assessed experience and interaction with each technology. It is not a certification or an expert ranking.
+
+El siguiente diagrama representa mi nivel de experiencia e interacción con cada tecnología. No constituye una certificación ni una clasificación de experto.
 
 <!--
-Add projects using this format once their public repository URLs are confirmed:
+  This image will be stored in:
+  ./assets/technology-honeycomb.svg
 
-### [Project name](https://github.com/EDaniel-B/REPOSITORY)
-Short description in English and Spanish.
-Technologies: C#, .NET, SQL Server, React...
+  Create the assets folder and add the SVG file there.
 -->
 
-## 📊 GitHub Analytics | Estadísticas de GitHub
-
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=EDaniel-B&show_icons=true&include_all_commits=true&hide_border=true&bg_color=1F1B2E&title_color=A78BFA&text_color=E5E1F5&icon_color=C4B5FD"
-    height="170"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDaniel-B&layout=compact&langs_count=8&hide_border=true&bg_color=1F1B2E&title_color=A78BFA&text_color=E5E1F5"
-    height="170"
-    alt="Most used programming languages"
-  />
+  <img src="./assets/technology-honeycomb.svg" width="100%" alt="Technology proficiency honeycomb diagram"/>
 </div>
 
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=EDaniel-B&hide_border=true&background=1F1B2E&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=E5E1F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAA3BC"
-    width="70%"
-    alt="GitHub contribution streak"
-  />
-</div>
+**Proficiency scale | Escala de experiencia**
+
+| Level | Description |
+|---|---|
+| 1 | Beginner / Principiante |
+| 2 | Developing / En desarrollo |
+| 3 | Intermediate / Intermedio |
+| 4 | Advanced practice / Práctica avanzada |
+
+---
+
+## 🚀 Featured projects | Proyectos destacados
+
+### TrendCast — Predictive Inventory Management System
+
+**EN:** A web-based inventory management system designed for small and medium-sized businesses, incorporating predictive analysis to support stock planning and decision-making.
+
+**ES:** Sistema web de gestión de inventarios orientado a pequeñas y medianas empresas, incorporando análisis predictivo para apoyar la planificación de existencias y la toma de decisiones.
+
+**Technologies:** React · TypeScript · Node.js · Express · PostgreSQL · Prisma
+
+### Institutional Systems | Sistemas institucionales
+
+**EN:** Development and maintenance of institutional software solutions, including academic processes, administrative modules, database operations, reporting and system improvements.
+
+**ES:** Desarrollo y mantenimiento de soluciones de software institucional, incluyendo procesos académicos, módulos administrativos, operaciones de bases de datos, generación de reportes y mejoras funcionales.
+
+**Technologies:** C# · .NET · ASP.NET MVC · SQL Server · JavaScript · HTML · CSS
+
+---
+
+## 📊 GitHub statistics | Estadísticas de GitHub
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EDaniel-B&bg_color=1F1B2E&color=E5E1F5&line=A78BFA&point=C4B5FD&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
+
+  <img src="https://streak-stats.demolab.com?user=EDaniel-B&hide_border=true&background=211B2D&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=E7DDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAA3BC" width="90%" alt="GitHub contribution streak"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EDaniel-B&bg_color=211B2D&color=E7DDF8&line=A78BFA&point=C4B5FD&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
 </div>
 
-## 🤝 Connect with Me | Conectemos
+---
 
-**EN** — I'm always interested in learning, sharing ideas and collaborating on software projects.
+## 📫 Contact | Contacto
 
-**ES** — Siempre estoy interesado en aprender, compartir ideas y colaborar en proyectos de software.
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/EDaniel-B">
-    <img src="https://img.shields.io/badge/GitHub-EDaniel--B-29243A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  **Let's connect and build something meaningful.**
+
+  **Conectemos y construyamos algo significativo.**
+
+  <br/>
+
+  <a href="mailto:elias.dbone.g@outlook.com">
+    <img src="https://img.shields.io/badge/Email-elias.dbone.g%40outlook.com-A78BFA?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email contact"/>
   </a>
-  <!-- Add your LinkedIn URL and professional email after confirming which ones you want public. -->
-</p>
 
-<div align="center">
-  <sub>Designed with Markdown · Graphite & Violet theme · Made with care</sub>
+  <br/><br/>
+
+  <a href="https://github.com/EDaniel-B">
+    <img src="https://img.shields.io/badge/GitHub-EDaniel--B-272333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  </a>
+
 </div>
