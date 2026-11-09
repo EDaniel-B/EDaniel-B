@@ -23,21 +23,28 @@
 
 ## 👨‍💻 About me | Sobre mí
 
-**ES**
-
-Soy desarrollador de software con experiencia laboral en el desarrollo y mantenimiento de sistemas institucionales. Me enfoco en la construcción de aplicaciones web, soluciones backend, gestión de bases de datos e integración de servicios.
-
-Me interesa desarrollar software funcional, organizado y mantenible, aplicando buenas prácticas de programación, patrones de arquitectura y herramientas que permitan construir soluciones eficientes.
-
-Actualmente continúo fortaleciendo mis conocimientos en desarrollo Full Stack, especialmente en el ecosistema .NET, tecnologías web y diseño de bases de datos.
-
-**EN**
-
-I'm a software developer with professional experience in institutional software development and maintenance. My work focuses on web applications, backend solutions, database management and service integration.
-
-I'm interested in building functional, organized and maintainable software through programming best practices, architectural patterns and technologies that support efficient solutions.
-
-I'm continuously expanding my Full Stack development skills, particularly in the .NET ecosystem, web technologies and database design.
+<table>
+  <tr>
+    <td width="70" align="center" valign="middle">
+      <h3>🇪🇸<br/>ES</h3>
+    </td>
+    <td>
+      <p>Soy desarrollador de software con experiencia laboral en el desarrollo y mantenimiento de sistemas institucionales. Me enfoco en la construcción de aplicaciones web, soluciones backend, gestión de bases de datos e integración de servicios.</p>
+      <p>Me interesa desarrollar software funcional, organizado y mantenible, aplicando buenas prácticas de programación, patrones de arquitectura y herramientas que permitan construir soluciones eficientes.</p>
+      <p>Actualmente continúo fortaleciendo mis conocimientos en desarrollo Full Stack, especialmente en el ecosistema .NET, tecnologías web y diseño de bases de datos.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="70" align="center" valign="middle">
+      <h3>🇺🇸<br/>EN</h3>
+    </td>
+    <td>
+      <p>I'm a software developer with professional experience in institutional software development and maintenance. My work focuses on web applications, backend solutions, database management and service integration.</p>
+      <p>I'm interested in building functional, organized and maintainable software through programming best practices, architectural patterns and technologies that support efficient solutions.</p>
+      <p>I'm continuously expanding my Full Stack development skills, particularly in the .NET ecosystem, web technologies and database design.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,50 +52,25 @@ I'm continuously expanding my Full Stack development skills, particularly in the
 
 ### ⚙️ Backend Development
 
-<table>
-  <tr>
-    <td><b>.NET</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C#"/>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
-      <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-      <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET MVC"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>JavaScript</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+</p>
 
 ### 🎨 Frontend Development
 
-<table>
-  <tr>
-    <td><b>Base</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Lenguajes</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Librerías y tooling</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</p>
 
 ### 🗄️ Databases & Data Access
 
@@ -150,7 +132,7 @@ Mis niveles representan una autoevaluación de mis conocimientos prácticos. La 
 ## 📖 Featured projects | Proyectos destacados
 
 ### TrendCast
-<sub>Predictive Inventory Management System</sub>
+#### Predictive Inventory Management System
 
 A web application focused on inventory management for small and medium-sized businesses in the commercial sector.
 
@@ -161,12 +143,16 @@ A web application focused on inventory management for small and medium-sized bus
 - Predictive analysis using Simple Moving Average and Simple Linear Regression.
 - Reports and business-oriented data visualization.
 
-**Technology stack**
+<div align="center">
 
-`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma`
+  **Technology stack**
+
+  `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma`
+
+</div>
 
 ### Institutional Software Development
-<sub>Academic & Administrative Systems</sub>
+#### Academic & Administrative Systems
 
 Professional experience developing and maintaining institutional software solutions, contributing to the improvement of academic and administrative processes.
 
@@ -177,10 +163,11 @@ Professional experience developing and maintaining institutional software soluti
 - Reports and document generation.
 - Interface improvements and application maintenance.
 
-**Technology stack**
+<div align="center">
+  **Technology stack**
 
-`C#` `.NET` `ASP.NET MVC` `SQL Server` `JavaScript` `HTML5` `CSS3`
-
+  `C#` `.NET` `ASP.NET MVC` `SQL Server` `JavaScript` `HTML5` `CSS3`
+</div>
 ---
 
 ## 🌌 GitHub activity | Actividad en GitHub
@@ -189,7 +176,7 @@ Professional experience developing and maintaining institutional software soluti
 
   <img src="https://streak-stats.demolab.com?user=EDaniel-B&hide_border=true&background=211B2D&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=E7DDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAA3BC" width="90%" alt="GitHub contribution streak"/>
 
-  <br/><br/>
+  <br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EDaniel-B&bg_color=211B2D&color=E7DDF8&line=A78BFA&point=C4B5FD&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
@@ -205,7 +192,7 @@ Professional experience developing and maintaining institutional software soluti
 <br/>
 <sub><i>Abierto a oportunidades de desarrollo de software, colaboración y nuevos desafíos.</i></sub>
 
-<br/><br/>
+<br>
 
 <a href="mailto:elias.dbone.g@outlook.com">
   <img src="https://img.shields.io/badge/Email-Let's_talk-A78BFA?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Enviar un correo a elias.dbone.g@outlook.com"/>
@@ -217,7 +204,7 @@ Professional experience developing and maintaining institutional software soluti
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de LinkedIn"/>
 </a>
 
-<br/><br/>
+<br>
 
 <sub>📧 elias.dbone.g@outlook.com</sub>
 
