@@ -113,6 +113,8 @@
 
 ## 📈 Technology proficiency | Nivel de experiencia
 
+<br>
+
 My proficiency levels represent my personal assessment of practical knowledge. Usage frequency is a separate indicator and does not necessarily represent expertise.
 
 Mis niveles representan una autoevaluación de mis conocimientos prácticos. La frecuencia de uso es un indicador independiente y no equivale necesariamente al dominio de una tecnología.
@@ -132,6 +134,8 @@ Mis niveles representan una autoevaluación de mis conocimientos prácticos. La 
 ---
 
 ## 📖 Featured projects | Proyectos destacados
+
+<br>
 
 ### TrendCast
 #### Predictive Inventory Management System
@@ -171,10 +175,11 @@ Professional experience developing and maintaining institutional software soluti
 
   `C#` `.NET` `ASP.NET MVC` `SQL Server` `JavaScript` `HTML5` `CSS3`
 </div>
+
 ---
 
 ## 🌌 GitHub activity | Actividad en GitHub
-
+<br>
 <div align="center">
 
   <img src="https://streak-stats.demolab.com?user=EDaniel-B&hide_border=true&background=211B2D&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=E7DDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAA3BC" width="90%" alt="GitHub contribution streak"/>
@@ -188,7 +193,7 @@ Professional experience developing and maintaining institutional software soluti
 ---
 
 ## 📞 Contact | Contacto
-
+<br>
 <div align="center">
 
 **Open to software development opportunities, collaboration and new challenges.**
