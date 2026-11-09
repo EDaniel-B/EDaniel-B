@@ -11,7 +11,7 @@
   </p>
 
   <a href="mailto:elias.dbone.g@outlook.com">
-    <img src="https://img.shields.io/badge/-Escríbeme-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un correo electrónico"/>
+    <img src="https://img.shields.io/badge/-Platica conmigo-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un correo electrónico"/>
   </a>
   <a href="https://github.com/EDaniel-B">
     <img src="https://img.shields.io/badge/-EDaniel--B-292536?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub de EDaniel-B"/>
@@ -123,9 +123,11 @@ Mis niveles representan una autoevaluación de mis conocimientos prácticos. La 
 
 ### 📈 Experience Scale | Escala de experiencia
 
-<img src="./assets/skills.svg" alt="Escala de experiencia calculada a partir de mis repositorios de GitHub"/>
+<div align="center">
+  <img src="./assets/skills.svg" alt="Escala de experiencia calculada a partir de mis repositorios de GitHub"/>
 
-<sub>Calculado automáticamente según los repositorios donde uso cada tecnología · 1/4 básico → 4/4 amplia experiencia</sub>
+  <sub>Calculado automáticamente según los repositorios donde uso cada tecnología · 1/4 básico → 4/4 amplia experiencia</sub>
+</div>
 
 ---
 
@@ -164,6 +166,7 @@ Professional experience developing and maintaining institutional software soluti
 - Interface improvements and application maintenance.
 
 <div align="center">
+
   **Technology stack**
 
   `C#` `.NET` `ASP.NET MVC` `SQL Server` `JavaScript` `HTML5` `CSS3`
