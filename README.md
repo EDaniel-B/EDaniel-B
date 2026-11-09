@@ -1,54 +1,50 @@
 
-<!--
-  GitHub Profile README
-  Repository: EDaniel-B/EDaniel-B
-  Theme: Graphite & Violet
--->
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171421,50:302448,100:8B5CF6&height=220&section=header&text=El%C3%ADas%20Daniel%20Bone&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Desarrollador%20de%20Software&descAlignY=58&descSize=16" width="100%" alt="Elías Daniel Bone - Software Developer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171421,45:302448,100:8B5CF6&height=230&section=header&text=El%C3%ADas%20Daniel%20Bone&fontSize=42&fontColor=FFFFFF&fontAlignY=37&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20DEVELOPMENT&descAlignY=58&descSize=14" width="100%" alt="Elías D. Bone - Software Developer"/>
+
+  <h3>Desarrollador de Software | Software Developer</h3>
 
   <p>
-    <strong>Building solutions through code, logic and continuous learning.</strong>
+    Diseño y desarrollo de soluciones tecnológicas enfocadas en resolver problemas reales.
     <br/>
-    <strong>Construyendo soluciones mediante código, lógica y aprendizaje continuo.</strong>
+    <em>Designing and developing software solutions to solve real-world problems.</em>
   </p>
 
   <a href="mailto:elias.dbone.g@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-A78BFA?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/CONTACT-Email-A78BFA?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/EDaniel-B">
-    <img src="https://img.shields.io/badge/GitHub-EDaniel--B-272333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-EDaniel--B-292536?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About me | Sobre mí
-
-**EN**
-
-I'm a software developer focused on building web applications, backend solutions and database-driven systems. I enjoy transforming requirements into functional, maintainable and scalable software.
-
-My experience includes institutional software development, business-oriented applications, database management, API integration and interface development. I believe in continuous improvement, clean code and learning through real-world projects.
+## 01. About me | Sobre mí
 
 **ES**
 
-Soy desarrollador de software enfocado en la construcción de aplicaciones web, soluciones backend y sistemas orientados a bases de datos. Me interesa transformar requerimientos en soluciones funcionales, mantenibles y escalables.
+Soy desarrollador de software con experiencia laboral en el desarrollo y mantenimiento de sistemas institucionales. Me enfoco en la construcción de aplicaciones web, soluciones backend, gestión de bases de datos e integración de servicios.
 
-Cuento con experiencia laboral en desarrollo de software, especialmente en sistemas institucionales, aplicaciones orientadas a procesos empresariales, gestión de bases de datos, integración de API y desarrollo de interfaces. Me motiva mejorar continuamente, escribir código limpio y aprender mediante proyectos reales.
+Me interesa desarrollar software funcional, organizado y mantenible, aplicando buenas prácticas de programación, patrones de arquitectura y herramientas que permitan construir soluciones eficientes.
+
+Actualmente continúo fortaleciendo mis conocimientos en desarrollo Full Stack, especialmente en el ecosistema .NET, tecnologías web y diseño de bases de datos.
+
+**EN**
+
+I'm a software developer with professional experience in institutional software development and maintenance. My work focuses on web applications, backend solutions, database management and service integration.
+
+I'm interested in building functional, organized and maintainable software through programming best practices, architectural patterns and technologies that support efficient solutions.
+
+I'm continuously expanding my Full Stack development skills, particularly in the .NET ecosystem, web technologies and database design.
 
 ---
 
-## 🛠️ Technologies & Tools | Tecnologías y herramientas
+## 02. Technical stack | Tecnologías
 
-My technology stack is organized by the tools I use and the experience I have developed with them.
-
-Mi stack tecnológico está organizado según las herramientas que utilizo y la experiencia que he desarrollado con ellas.
-
-### Backend & Frameworks
+### Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
@@ -59,7 +55,7 @@ Mi stack tecnológico está organizado según las herramientas que utilizo y la 
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
@@ -70,90 +66,98 @@ Mi stack tecnológico está organizado según las herramientas que utilizo y la 
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
-### Databases & ORM
+### Databases & Data Access
 
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma ORM"/>
 </p>
 
-### Architecture & Development
+### Architecture & Software Engineering
 
 <p>
   <img src="https://img.shields.io/badge/MVC-6C5CE7?style=flat-square" alt="MVC"/>
   <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=flat-square" alt="MVVM"/>
-  <img src="https://img.shields.io/badge/REST_APIs-8B5CF6?style=flat-square" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/Clean_Architecture-8B5CF6?style=flat-square" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/REST_APIs-8B5CF6?style=flat-square" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 </p>
 
-### Reporting & Productivity
+### Reporting & Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/QuestPDF-6B46C1?style=flat-square" alt="QuestPDF"/>
-  <img src="https://img.shields.io/badge/RDLC-512BD4?style=flat-square" alt="RDLC"/>
   <img src="https://img.shields.io/badge/ExcelJS-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="ExcelJS"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 </p>
 
 ---
 
-## 💠 Technology proficiency | Nivel de experiencia
+## 03. Technology proficiency | Nivel de experiencia
 
-The following diagram represents my self-assessed experience and interaction with each technology. It is not a certification or an expert ranking.
+My proficiency levels represent my personal assessment of practical knowledge. Usage frequency is a separate indicator and does not necessarily represent expertise.
 
-El siguiente diagrama representa mi nivel de experiencia e interacción con cada tecnología. No constituye una certificación ni una clasificación de experto.
-
-<!--
-  This image will be stored in:
-  ./assets/technology-honeycomb.svg
-
-  Create the assets folder and add the SVG file there.
--->
+Mis niveles representan una autoevaluación de mis conocimientos prácticos. La frecuencia de uso es un indicador independiente y no equivale necesariamente al dominio de una tecnología.
 
 <div align="center">
-  <img src="./assets/technology-honeycomb.svg" width="100%" alt="Technology proficiency honeycomb diagram"/>
+  <img src="./assets/technology-honeycomb.svg" width="100%" alt="Technology skills and proficiency diagram"/>
 </div>
 
-**Proficiency scale | Escala de experiencia**
+**Experience scale | Escala de experiencia**
 
-| Level | Description |
-|---|---|
-| 1 | Beginner / Principiante |
-| 2 | Developing / En desarrollo |
-| 3 | Intermediate / Intermedio |
-| 4 | Advanced practice / Práctica avanzada |
-
----
-
-## 🚀 Featured projects | Proyectos destacados
-
-### TrendCast — Predictive Inventory Management System
-
-**EN:** A web-based inventory management system designed for small and medium-sized businesses, incorporating predictive analysis to support stock planning and decision-making.
-
-**ES:** Sistema web de gestión de inventarios orientado a pequeñas y medianas empresas, incorporando análisis predictivo para apoyar la planificación de existencias y la toma de decisiones.
-
-**Technologies:** React · TypeScript · Node.js · Express · PostgreSQL · Prisma
-
-### Institutional Systems | Sistemas institucionales
-
-**EN:** Development and maintenance of institutional software solutions, including academic processes, administrative modules, database operations, reporting and system improvements.
-
-**ES:** Desarrollo y mantenimiento de soluciones de software institucional, incluyendo procesos académicos, módulos administrativos, operaciones de bases de datos, generación de reportes y mejoras funcionales.
-
-**Technologies:** C# · .NET · ASP.NET MVC · SQL Server · JavaScript · HTML · CSS
+| Level | Meaning |
+|:---:|---|
+| 1/4 | Basic knowledge · Conocimientos básicos |
+| 2/4 | Developing skills · En desarrollo |
+| 3/4 | Intermediate practice · Práctica intermedia |
+| 4/4 | Strong practical experience · Amplia experiencia práctica |
 
 ---
 
-## 📊 GitHub statistics | Estadísticas de GitHub
+## 04. Featured projects | Proyectos destacados
+
+### TrendCast
+<sub>Predictive Inventory Management System</sub>
+
+A web application focused on inventory management for small and medium-sized businesses in the commercial sector.
+
+**Key areas**
+- Product, category and supplier management.
+- Inventory control and stock movements.
+- Minimum stock and reorder monitoring.
+- Predictive analysis using Simple Moving Average and Simple Linear Regression.
+- Reports and business-oriented data visualization.
+
+**Technology stack**
+
+`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma`
+
+### Institutional Software Development
+<sub>Academic & Administrative Systems</sub>
+
+Professional experience developing and maintaining institutional software solutions, contributing to the improvement of academic and administrative processes.
+
+**Areas of work**
+- Backend development with C# and ASP.NET MVC.
+- Database queries, maintenance and optimization.
+- Academic and administrative modules.
+- Reports and document generation.
+- Interface improvements and application maintenance.
+
+**Technology stack**
+
+`C#` `.NET` `ASP.NET MVC` `SQL Server` `JavaScript` `HTML5` `CSS3`
+
+---
+
+## 05. GitHub activity | Actividad en GitHub
 
 <div align="center">
 
@@ -167,24 +171,22 @@ El siguiente diagrama representa mi nivel de experiencia e interacción con cada
 
 ---
 
-## 📫 Contact | Contacto
+## 06. Contact | Contacto
 
 <div align="center">
 
-  **Let's connect and build something meaningful.**
+  **Interested in software development, collaboration and new challenges.**
 
-  **Conectemos y construyamos algo significativo.**
+  **Interesado en el desarrollo de software, la colaboración y nuevos desafíos.**
 
   <br/>
 
   <a href="mailto:elias.dbone.g@outlook.com">
-    <img src="https://img.shields.io/badge/Email-elias.dbone.g%40outlook.com-A78BFA?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email contact"/>
+    <img src="https://img.shields.io/badge/Email-elias.dbone.g%40outlook.com-A78BFA?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Contact by email"/>
   </a>
 
-  <br/><br/>
-
   <a href="https://github.com/EDaniel-B">
-    <img src="https://img.shields.io/badge/GitHub-EDaniel--B-272333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-EDaniel--B-292536?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
 
 </div>
