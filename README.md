@@ -1,28 +1,27 @@
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171421,45:302448,100:8B5CF6&height=230&section=header&text=El%C3%ADas%20Daniel%20Bone&fontSize=42&fontColor=FFFFFF&fontAlignY=37&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20DEVELOPMENT&descAlignY=58&descSize=14" width="100%" alt="Elías D. Bone - Software Developer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171421,45:302448,100:8B5CF6&height=230&section=header&text=El%C3%ADas%20D.%20Bone&fontSize=42&fontColor=FFFFFF&fontAlignY=37&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20DEVELOPMENT&descAlignY=58&descSize=14" width="100%" alt="Elías D. Bone - Software Developer"/>
 
   <h3>Desarrollador de Software | Software Developer</h3>
 
   <p>
-    Diseño y desarrollo de soluciones tecnológicas enfocadas en resolver problemas reales.
+    Diseño y desarrollo de soluciones tecnológicas facilitando la operativa empresarial.
     <br/>
-    <em>Designing and developing software solutions to solve real-world problems.</em>
+    <em>Design and development of technological solutions facilitating business operations.</em>
   </p>
 
   <a href="mailto:elias.dbone.g@outlook.com">
-    <img src="https://img.shields.io/badge/CONTACT-Email-A78BFA?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Escríbeme-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un correo electrónico"/>
   </a>
   <a href="https://github.com/EDaniel-B">
-    <img src="https://img.shields.io/badge/GITHUB-EDaniel--B-292536?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-EDaniel--B-292536?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub de EDaniel-B"/>
   </a>
 
 </div>
 
 ---
 
-## 01. About me | Sobre mí
+## 👨‍💻 About me | Sobre mí
 
 **ES**
 
@@ -42,65 +41,95 @@ I'm continuously expanding my Full Stack development skills, particularly in the
 
 ---
 
-## 02. Technical stack | Tecnologías
+## 📓 Technical stack | Tecnologías
 
-### Backend Development
+### ⚙️ Backend Development
+
+<table>
+  <tr>
+    <td><b>.NET</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+      <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET MVC"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>JavaScript</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
+    </td>
+  </tr>
+</table>
+
+### 🎨 Frontend Development
+
+<table>
+  <tr>
+    <td><b>Base</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Lenguajes</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Librerías y tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Databases & Data Access
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET MVC"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"/>
+  <img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM"/>
 </p>
 
-### Frontend Development
+### 🏗️ Architecture & Software Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/MVC-6C5CE7?style=for-the-badge&logo=hexo&logoColor=white" alt="Patrón MVC"/>
+  <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge&logo=hexo&logoColor=white" alt="Patrón MVVM"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-8B5CF6?style=for-the-badge&logo=hexo&logoColor=white" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 </p>
 
-### Databases & Data Access
+### 📊 Reporting & Documents
 
 <p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma ORM"/>
+  <img src="https://img.shields.io/badge/QuestPDF-D93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="QuestPDF"/>
+  <img src="https://img.shields.io/badge/ExcelJS-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="ExcelJS"/>
 </p>
 
-### Architecture & Software Engineering
+### 🛠️ Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/MVC-6C5CE7?style=flat-square" alt="MVC"/>
-  <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=flat-square" alt="MVVM"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-8B5CF6?style=flat-square" alt="Clean Architecture"/>
-  <img src="https://img.shields.io/badge/REST_APIs-8B5CF6?style=flat-square" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-</p>
-
-### Reporting & Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/QuestPDF-6B46C1?style=flat-square" alt="QuestPDF"/>
-  <img src="https://img.shields.io/badge/ExcelJS-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="ExcelJS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 </p>
 
 ---
 
-## 03. Technology proficiency | Nivel de experiencia
+## 📈 Technology proficiency | Nivel de experiencia
 
 My proficiency levels represent my personal assessment of practical knowledge. Usage frequency is a separate indicator and does not necessarily represent expertise.
 
@@ -110,18 +139,15 @@ Mis niveles representan una autoevaluación de mis conocimientos prácticos. La 
   <img src="./assets/technology-honeycomb.svg" width="100%" alt="Technology skills and proficiency diagram"/>
 </div>
 
-**Experience scale | Escala de experiencia**
+### 📈 Experience Scale | Escala de experiencia
 
-| Level | Meaning |
-|:---:|---|
-| 1/4 | Basic knowledge · Conocimientos básicos |
-| 2/4 | Developing skills · En desarrollo |
-| 3/4 | Intermediate practice · Práctica intermedia |
-| 4/4 | Strong practical experience · Amplia experiencia práctica |
+<img src="./assets/skills.svg" alt="Escala de experiencia calculada a partir de mis repositorios de GitHub"/>
+
+<sub>Calculado automáticamente según los repositorios donde uso cada tecnología · 1/4 básico → 4/4 amplia experiencia</sub>
 
 ---
 
-## 04. Featured projects | Proyectos destacados
+## 📖 Featured projects | Proyectos destacados
 
 ### TrendCast
 <sub>Predictive Inventory Management System</sub>
@@ -157,7 +183,7 @@ Professional experience developing and maintaining institutional software soluti
 
 ---
 
-## 05. GitHub activity | Actividad en GitHub
+## 🌌 GitHub activity | Actividad en GitHub
 
 <div align="center">
 
@@ -171,22 +197,28 @@ Professional experience developing and maintaining institutional software soluti
 
 ---
 
-## 06. Contact | Contacto
+## 📞 Contact | Contacto
 
 <div align="center">
 
-  **Interested in software development, collaboration and new challenges.**
+**Open to software development opportunities, collaboration and new challenges.**
+<br/>
+<sub><i>Abierto a oportunidades de desarrollo de software, colaboración y nuevos desafíos.</i></sub>
 
-  **Interesado en el desarrollo de software, la colaboración y nuevos desafíos.**
+<br/><br/>
 
-  <br/>
+<a href="mailto:elias.dbone.g@outlook.com">
+  <img src="https://img.shields.io/badge/Email-Let's_talk-A78BFA?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Enviar un correo a elias.dbone.g@outlook.com"/>
+</a>
+<a href="https://github.com/EDaniel-B">
+  <img src="https://img.shields.io/badge/GitHub-EDaniel--B-292536?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub de EDaniel-B"/>
+</a>
+<a href="https://www.linkedin.com/in/TU-USUARIO">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de LinkedIn"/>
+</a>
 
-  <a href="mailto:elias.dbone.g@outlook.com">
-    <img src="https://img.shields.io/badge/Email-elias.dbone.g%40outlook.com-A78BFA?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Contact by email"/>
-  </a>
+<br/><br/>
 
-  <a href="https://github.com/EDaniel-B">
-    <img src="https://img.shields.io/badge/GitHub-EDaniel--B-292536?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-  </a>
+<sub>📧 elias.dbone.g@outlook.com</sub>
 
 </div>
