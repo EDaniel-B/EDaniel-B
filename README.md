@@ -113,8 +113,6 @@
 
 ## 📈 Technology proficiency | Nivel de experiencia
 
-<br>
-
 My proficiency levels represent my personal assessment of practical knowledge. Usage frequency is a separate indicator and does not necessarily represent expertise.
 
 Mis niveles representan una autoevaluación de mis conocimientos prácticos. La frecuencia de uso es un indicador independiente y no equivale necesariamente al dominio de una tecnología.
@@ -134,9 +132,6 @@ Mis niveles representan una autoevaluación de mis conocimientos prácticos. La 
 ---
 
 ## 📖 Featured projects | Proyectos destacados
-
-<br>
-
 ### TrendCast
 #### Predictive Inventory Management System
 
