@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="148" viewBox="0 0 560 148" role="img" aria-label="Experience scale based on GitHub repositories">
+<style>
+  .label{font:600 13px 'Segoe UI',Arial,sans-serif;fill:#24292f}
+  .meta{font:12px 'Segoe UI',Arial,sans-serif;fill:#57606a}
+  .track{fill:#d0d7de}
+  .bar{transform-box:fill-box;transform-origin:left center;animation:grow 1.2s cubic-bezier(.22,1,.36,1) both}
+  @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  @media (prefers-color-scheme:dark){
+    .label{fill:#e6edf3}.meta{fill:#8b949e}.track{fill:#30363d}
+  }
+</style>
+<g transform="translate(10,0)">
+  <text class="label" x="0" y="32">JavaScript</text>
+  <rect class="track" x="150" y="20" width="280" height="14" rx="7"/>
+  <rect class="bar" x="150" y="20" width="280" height="14" rx="7" fill="#F7DF1E" style="animation-delay:0.00s"/>
+  <text class="meta" x="444" y="32">4/4 · 19 repos</text>
+  <text class="label" x="0" y="68">C#</text>
+  <rect class="track" x="150" y="56" width="280" height="14" rx="7"/>
+  <rect class="bar" x="150" y="56" width="280" height="14" rx="7" fill="#512BD4" style="animation-delay:0.15s"/>
+  <text class="meta" x="444" y="68">4/4 · 10 repos</text>
+  <text class="label" x="0" y="104">TypeScript</text>
+  <rect class="track" x="150" y="92" width="280" height="14" rx="7"/>
+  <rect class="bar" x="150" y="92" width="140" height="14" rx="7" fill="#3178C6" style="animation-delay:0.30s"/>
+  <text class="meta" x="444" y="104">2/4 · 2 repos</text>
+</g>
+</svg>
